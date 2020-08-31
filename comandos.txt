@@ -22,6 +22,9 @@ rm -rf nome_da_pasta
 // Clonar um repositório já existente
 git clone https://github.com/repositorio
 
+// Remover um controle remoto de um repositório
+git remote remove origin
+
 // Verificar estado dos arquivos no repositório
 git status
 
@@ -39,6 +42,3 @@ git push
 
 // Atualizar arquivos no repositório local a partir do repositório remoto
 git pull
-
-
-
