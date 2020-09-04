@@ -1,44 +1,59 @@
 // Criar uma pasta:
-mkdir nome_da_pasta
+
+    mkdir nome_da_pasta
 
 // Entrar na pasta:
-cd nome_da_pasta
+
+    cd nome_da_pasta
 
 // Sair da pasta:
-cd ..
+
+    cd ..
 
 // Listagem simples:
-ls
+
+    ls
 
 // Listagem completa:
-ls -la
+
+    ls -la
 
 // Remover arquivo
-rm nome_arquivo.txt
+
+    rm nome_arquivo.txt
 
 // Remover pasta
-rm -rf nome_da_pasta
+
+    rm -rf nome_da_pasta
 
 // Clonar um repositório já existente
-git clone https://github.com/repositorio
+
+    git clone https://github.com/repositorio
 
 // Remover um controle remoto de um repositório
-git remote remove origin
+
+    git remote remove origin
 
 // Verificar estado dos arquivos no repositório
-git status
+
+    git status
 
 // Adicionar um arquivo no stage
-git add nome_do_arquivo
+
+    git add nome_do_arquivo
 
 // Adicionar todos os arquivos no stage
-git add .
+
+    git add .
 
 // Informar uma mensagem ao commitar o arquivo
-git commit –m “mensagem”
+
+    git commit –m “mensagem”
 
 // Enviar arquivos para o repositório
-git push
+
+    git push
 
 // Atualizar arquivos no repositório local a partir do repositório remoto
-git pull
+
+    git pull
