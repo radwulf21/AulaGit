@@ -1,0 +1,29 @@
+Revisão - Git e GitHub
+
+    -Criar repositório no GitHub
+
+    -git init
+
+    -git remote remove origin
+
+    -git add .
+
+    -git commit -m "comentário"
+
+    -git remote add origin <link do repositório>
+
+    -git push -u origin master
+
+    -git push origin master --force
+
+    -git push
+
+    -git pull
+
+    -git clone
+
+    -git status
+
+    -git checkout -b <nomeBranch> : Cria uma nova Branch a partir da Branch atual
+
+    -git checkout <nomeBranch> : Trocar de Branch
