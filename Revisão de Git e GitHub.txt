@@ -27,3 +27,7 @@ Revisão - Git e GitHub
     -git checkout -b <nomeBranch> : Cria uma nova Branch a partir da Branch atual
 
     -git checkout <nomeBranch> : Trocar de Branch
+
+    -git branch -D <nome do branch> : Para apagar o branch localmente
+
+    -git push <nome do origin> <nome do branch> --delete : Para apagar o branch remotamente
