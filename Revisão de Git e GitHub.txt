@@ -14,7 +14,9 @@ Revisão - Git e GitHub
 
     -git push -u origin master
 
-    -git push origin master --force
+    -git push origin <nomeBranch> --force
+
+    -git push origin <nomeBranch>
 
     -git push
 
